@@ -1,0 +1,5 @@
+
+Causal-effect graphs to represent anti-patterns or solutions
+Associate anti-patterns with project managent ones
+Evaluate the relevance of the identify anti-patterns in terms of frequency and impact.
+Look for correlations among anti-patterns
