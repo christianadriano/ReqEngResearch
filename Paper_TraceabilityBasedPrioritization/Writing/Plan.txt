@@ -1,0 +1,42 @@
+
+Traceability Paper:
+
+1. Review 10 questions for the paper (1h)
+
+2. Search Agile claim (30 min)
+
+3. Contribution and Impact before the outline (30min)
+
+4. Resize figures (15min)
+
+5. Adjust commmento on page 5 (15min)
+
+6. Definitions of Optimal (v8), Stabilization, 
+
+7. Related work
+- Read papers
+- five papers (20 min each = 100min)
+
+- Edit section
+
+8. Scenario
+Describe a scenario (2h)
+
+
+9. Model
+Explain the model using the scenario (1h)
+What about references for the model?
+Rethink formalization (send ideas to Birgit, 30min)
+Reformat in a table (15min)
+
+10. Demonstration of the Model
+Remake it with the actual scenario. (2h)
+
+
+
+Today (September 29th)
+Read papers
+Draft 10 questions
+
+Sunday
+Describe the scenario
