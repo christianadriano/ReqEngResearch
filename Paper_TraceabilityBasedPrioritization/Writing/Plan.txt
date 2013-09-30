@@ -9,7 +9,7 @@ Traceability Paper:
 
 4. Resize figures (15min)
 
-5. Adjust commmento on page 5 (15min)
+5. Adjust commments on page 5 (15min)
 
 6. Definitions of Optimal (v8), Stabilization, 
 
@@ -26,17 +26,25 @@ Describe a scenario (2h)
 9. Model
 Explain the model using the scenario (1h)
 What about references for the model?
-Rethink formalization (send ideas to Birgit, 30min)
-Reformat in a table (15min)
+Rethink formalization (send ideas to Birgit, 30min) Patrick Heymans (Uni Namur).
+Reformat in a table (15min) / in the discussions/limitations of the approach.
 
 10. Demonstration of the Model
 Remake it with the actual scenario. (2h)
 
 
+Plan:
 
-Today (September 29th)
+Today (September 30th)
+Describe the scenario
+Apply it to the model
+
+Tuesday (Oct 01)
 Read papers
 Draft 10 questions
 
-Sunday
-Describe the scenario
+Wednesday (Oct 02)
+Rewrite the related work
+
+Thursday (Oct 03)
+Minor fixes
