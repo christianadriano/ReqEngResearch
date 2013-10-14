@@ -1,7 +1,8 @@
 
 Traceability Paper:
 
-1. Review 10 questions for the paper (1h)
+
+1. Review Abstract //DONE
 
 2. Search Agile claim (30 min)
 
@@ -32,19 +33,12 @@ Reformat in a table (15min) / in the discussions/limitations of the approach.
 10. Demonstration of the Model
 Remake it with the actual scenario. (2h)
 
+11. Review 10 questions for the paper (1h) // postponed
 
-Plan:
 
-Today (September 30th)
-Describe the scenario
-Apply it to the model
 
-Tuesday (Oct 01)
-Read papers
-Draft 10 questions
+Plan
+Review Related work (2h)
+Scenario and Model - items  7,8,9 (2h)
+Minor Fixes - items 2,3,4,5,6 (1h)
 
-Wednesday (Oct 02)
-Rewrite the related work
-
-Thursday (Oct 03)
-Minor fixes
